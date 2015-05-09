@@ -4,7 +4,7 @@ Plugin Name: WP-Bigfoot
 Plugin URI: https://github.com/freekrai/wp-bigfoot
 Description: Easier footnotes for your site, and jQuery Bigfoot for cooler effects
 Author: Roger Stringer
-Version: 1.0
+Version: 1.2
 Author URI: http://rogerstringer.com
 */ 
 
